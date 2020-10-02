@@ -14,4 +14,3 @@ router.post('/add-product',adminController.postAddProduct);
 
 
 exports.routes = router;
-// exports.products = products;
